@@ -1,0 +1,8 @@
+/dataset/
+/input/
+**/.ipynb_checkpoints/**
+**/__pycache__/
+/.idea/
+/.vscode/
+**/runs/
+*.zip
